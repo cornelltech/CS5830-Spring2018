@@ -70,123 +70,36 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 Preliminary schedule is below. This will surely evolve
 
 
-# Jan 25 (Intro) 
-
-* Introduction to cryptography.
-* One-time pads 
-* Shannon's perfect secrecy
-* Computational cryptography
-
-
-
-# Jan 30 (One-way functions)
-
-* Computational reductions
-
-
-
-# Feb 1 (Background on CNT)
-
-* Computational number theory
-* Modular arithmetic to RSA
-
-
-# Feb 6  (RSA and discrete log as OWFs)
-
-* RSA problem 
-* Discrete log problem
-* Building OWFs
-
-
-# Feb 13 (Towards symmetric encryption)
-
-* Constructing symmetric encryption from OWF attempts
-* Computational indistinguishability
-* Pseudorandomness
-* Yao + hardcore bits
-
-
-# Feb 15 (Pseudorandom generators)
-
-* Expansion of randomness via PRGs. 
-
-# Feb 20 (No class -- Fall break)
-
-
-# Feb 22 (Single-message secure encryption)
-
-* Construction from PRG
-
-# Feb 27 (Multi-message secure encryption)
-
-* Pseudorandom functions (PRFs)
-* Encryption from PRFs
-
-# Mar 1 (CTR mode)
-
-* CTR mode as PRG, built from PRF
-* Towards fast PRFs?
-
-# Mar 6 (Blockciphers)
-
-* The goal and cryptanalysis basics
-* DES, AES
-* Feistel construction
-
-* In-class exercise: replace CMAC with HMAC in AE scheme
-
-# Mar 8 (Feistel and Luby-Rackoff)
-
-* Theoretical support for DES-type constructions
-* Birthday bound and analysis of 3-round Feistel
-* Format-preserving encryption
-
-
-# Mar 13 (Blockcipher modes)
-
-* CTR mode from block ciphers
-* PRP/PRF switching lemma
-* CBC mode
-
-
-# Mar 15 (Chosen-ciphertext attacks)
-
-* Padding oracle attacks against CBC
-* Real-world examples
-
-
-
-# Mar 20 (Authenticated encryption)
-
-* Message authentication codes (MACs)
-* AE from encryption plus MACs
-
-
-# Mar 22 (Hash functions)
-
-* Collision resistance, one-wayness
-* Blockcipher-based failures
-* Use in symmetric crypto: HMAC, KDFs
-
-# Mar 27 (Asymmetric cryptography)
-
-* Public-key encryption
-* PKE from trapdoor permutations
-
-# Mar 29 (Digital signatures)
-
-* 
-
-# Apr 3 (No class -- Spring break)
-
-# Apr 5 (No class -- Spring break)
-
-# Apr 10
-# Apr 12
-# Apr 17
-# Apr 19
-# Apr 24
-# Apr 26
-# May 1
-# May 3
+| Date |  Topic  |  Note |
+|------|---------|--------|
+| Jan 25 | Intro & one-time-pads |  |
+| Jan 30 | One-way functions, computation reductions |  |
+| Feb 1 |  Background on computational number theory |  |
+| Feb 6 |  RSA and discrete log as OWFs  |  |
+| Feb 8 |  Towards symmetric encryption | |
+| Feb 13 | Symmetric encryption via OWFs |  |
+| Feb 15 | Pseudorandom generators (PRGs) |   |
+| Feb 20 | No Lecture (February break)  |  |
+| Feb 22 | Single-message symmetric encryption from PRG |  |
+| Feb 27 | Multi-message symmetric encryption (PRFs) |  |
+| Mar 1 | CTR mode as a PRG |  |
+| Mar 6 |  Blockciphers |  |
+| Mar 8 |  Feistel and Luby-Rackoff |  |
+| Mar 13 | Blockcipher modes   |  |
+| Mar 15 | Chosen-ciphertext attacks | |
+| Mar 20 |  In-class midterm | |
+| Mar 22 |  Message authentication and authenticated encryption |   |
+| Mar 27 |  Hash functions  |   |
+| Mar 39 | Asymmetric cryptography  |  |
+| Apr 3 | No lecture (Spring break) |  |
+| Apr 5 | No lecture (Spring break) | |
+| Apr 10 | Key exchange & Diffie-Hellman  |  |
+| Apr 12 | Digital signatures & PKI | |
+| Apr 17 | Discrete log based digital signatures  |  |
+| Apr 29 | ECC crypto |  |
+| Apr 24 | Hybrid encryption & ElGamal | |
+| Apr 26 | RNGs | |
+| May 1 |  Cryptographic backdoors |  |
+| May 3 |  |  |
+| May 9 |  |  |
 
