@@ -73,7 +73,7 @@ Preliminary schedule is below. This will surely evolve
 | Date |  Topic  |  Note |
 |------|---------|--------|
 | Jan 25 | Intro & one-time-pads |  |
-| Jan 30 | One-way functions, computation reductions |  |
+| Jan 30 | One-way functions, computational reductions |  |
 | Feb 1 |  Background on computational number theory |  |
 | Feb 6 |  RSA and discrete log as OWFs  |  |
 | Feb 8 |  Towards symmetric encryption | |
