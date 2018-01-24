@@ -18,8 +18,14 @@ TA: ???
 Students should have programming experience (we will be focusing on Python),
 understand basic probability, know binary representations (ASCII), operations on
 bit strings (XOR), have some background on computer networking, file systems,
-etc. If in doubt shoot the instructor an email.
-
+etc.  Equivalent of CS2800 (Discrete Mathematics) and comfort with reasoning
+about algorithms, such as proving their correctness and analyzing their running
+times, or permission of instructor.  The main skill that will be assumed is the
+ability to understand and write formal mathematical definitions and proofs. It
+is also important that you are familiar with basic probability (although we will
+recall some basic concepts); please refresh yourself by reading Chapter 5 in the
+following lecture notes: http://www.cs.cornell.edu/~rafael/discmath.pdf) If in
+doubt talk to the instructors.
 
 
 ### Requirements
@@ -43,10 +49,12 @@ and work with students to refine the projects. Projects could be a deep-dive int
 an implementation project for some state-of-the-art cryptography, or augmenting
 some other project of your interest with cryptographic mechanisms. 
 
-### Background reading
+### Background reading and Lecture notes
 
 The following books should be helpful, but none are required if you don't want to spend the money:
 
+
+* Portions of the course will take advantage of these lecture notes: (http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 * [Cryptography 101 by Houtven](https://www.crypto101.io/). Free, but not complete. Feel free to send helpful feedback to the author.
 
 * [Cryptography Engineering by Ferguson, Schneier, and Kohno](https://www.schneier.com/books/cryptography_engineering/). A gentle
