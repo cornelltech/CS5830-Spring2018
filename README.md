@@ -17,7 +17,7 @@ Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: By appointment
 
-TA: Siqiu Yao (mailto:sy657@cornell.edu)
+TA: Siqiu Yao (sy657@cornell.edu)
 
 Office hours: TBA
 
@@ -63,7 +63,7 @@ some other project of your interest with cryptographic mechanisms.
 The following books should be helpful, but none are required if you don't want to spend the money:
 
 
-* Portions of the course will take advantage of these lecture notes: (http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
+* Portions of the course will take advantage of these lecture notes: http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf
 * [Cryptography 101 by Houtven](https://www.crypto101.io/). Free, but not complete. Feel free to send helpful feedback to the author.
 
 * [Cryptography Engineering by Ferguson, Schneier, and Kohno](https://www.schneier.com/books/cryptography_engineering/). A gentle
