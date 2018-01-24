@@ -9,8 +9,17 @@ security of cryptographic schemes, and how to implement suitable
 cryptographic algorithms within broader projects. 
 
 
-Instructors: Rafael Pass (http://www.cs.cornell.edu/~rafael/) and Tom Ristenpart (https://rist.tech.cornell.edu)
-TA: ??? 
+Instructor: Rafael Pass (http://www.cs.cornell.edu/~rafael/) and
+
+Office hours: TBA
+
+Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
+
+Office hours: By appointment
+
+TA: Siqiu Yao (mailto:sy657@cornell.edu)
+
+Office hours: TBA
 
 
 ### Pre-requisites
