@@ -8,6 +8,7 @@ understand the basics of cryptography, how cryptographers analyze the
 security of cryptographic schemes, and how to implement suitable
 cryptographic algorithms within broader projects. 
 
+Classroom: B61
 
 Instructor: Rafael Pass (http://www.cs.cornell.edu/~rafael/) and
 
