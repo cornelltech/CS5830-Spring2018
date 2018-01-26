@@ -44,9 +44,8 @@ The class will involve a combination of lectures, in-class group exercises,
 homeworks, a prelim, and a final. You'll be graded according to the following:
 
 * Participation: 10%
-* Homeworks:  50% (each homework will count an equal amount)
-* Prelim:  20% 
-* Final:  20% 
+* Homeworks:  60% (each homework will count an equal amount)
+* Final:  30% 
 
 There will be several opportunities for extra credit, as well.
 
