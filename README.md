@@ -20,7 +20,7 @@ Office hours: By appointment
 
 TA: Siqiu Yao (sy657@cornell.edu)
 
-Office hours: TBA
+Office hours: Fri. 2:30pm - 3:30pm, Gates Hall 406 via Zoom at https://cornell.zoom.us/j/7690848411.
 
 
 ### Pre-requisites
