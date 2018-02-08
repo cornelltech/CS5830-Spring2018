@@ -12,7 +12,7 @@ Classroom: B61
 
 Instructor: Rafael Pass (http://www.cs.cornell.edu/~rafael/) and
 
-Office hours: TBA
+Office hours: By appointment
 
 Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
