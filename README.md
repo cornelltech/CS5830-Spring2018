@@ -103,7 +103,7 @@ Preliminary schedule is below. This will surely evolve
 | Mar 1 |  |  |
 | Mar 6 |   |  |
 | Mar 8 |   |  |
-| Mar 13 | Blockciphers   | (slides/blockciphers.pdf)[Slides] |
+| Mar 13 | Blockciphers   | [Slides](slides/blockciphers.pdf) |
 | Mar 15 | Length-preserving encryption | |
 | Mar 20 |  In-class midterm | |
 | Mar 22 |  Blockcipher modes of operation |   |
