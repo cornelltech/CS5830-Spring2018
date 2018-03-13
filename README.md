@@ -100,21 +100,21 @@ Preliminary schedule is below. This will surely evolve
 | Feb 20 | No Lecture (February break)  |  |
 | Feb 22 | Single-message symmetric encryption from PRG |  |
 | Feb 27 | Multi-message symmetric encryption (PRFs) |  |
-| Mar 1 | CTR mode as a PRG |  |
-| Mar 6 |  Blockciphers |  |
-| Mar 8 |  Feistel and Luby-Rackoff |  |
-| Mar 13 | Blockcipher modes   |  |
-| Mar 15 | Chosen-ciphertext attacks | |
+| Mar 1 |  |  |
+| Mar 6 |   |  |
+| Mar 8 |   |  |
+| Mar 13 | Blockciphers   | (slides/blockciphers.pdf)[Slides] |
+| Mar 15 | Length-preserving encryption | |
 | Mar 20 |  In-class midterm | |
-| Mar 22 |  Message authentication and authenticated encryption |   |
-| Mar 27 |  Hash functions  |   |
-| Mar 39 | Asymmetric cryptography  |  |
+| Mar 22 |  Blockcipher modes of operation |   |
+| Mar 27 |  Chosen-ciphertext attacks  |   |
+| Mar 39 | Message authentication |  |
 | Apr 3 | No lecture (Spring break) |  |
 | Apr 5 | No lecture (Spring break) | |
-| Apr 10 | Key exchange & Diffie-Hellman  |  |
-| Apr 12 | Digital signatures & PKI | |
-| Apr 17 | Discrete log based digital signatures  |  |
-| Apr 29 | ECC crypto |  |
+| Apr 10 | Authenticated encryption  |  |
+| Apr 12 | Asymmetric cryptography, public-key encryption  | |
+| Apr 17 | Digital signatures & PKI   |  |
+| Apr 29 | Key exchange |  |
 | Apr 24 | Hybrid encryption & ElGamal | |
 | Apr 26 | RNGs | |
 | May 1 |  Cryptographic backdoors |  |
