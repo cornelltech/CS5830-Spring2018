@@ -104,8 +104,8 @@ Preliminary schedule is below. This will surely evolve
 | Mar 6 |   |  |
 | Mar 8 |   |  |
 | Mar 13 | Blockciphers   | [Slides](slides/blockciphers.pdf) |
-| Mar 15 | Length-preserving encryption | |
-| Mar 20 |  In-class midterm | |
+| Mar 15 | Length-preserving encryption | [Slides](slides/blockciphers2.pdf) |
+| Mar 20 |  Class cancelled | |
 | Mar 22 |  Blockcipher modes of operation |   |
 | Mar 27 |  Chosen-ciphertext attacks  |   |
 | Mar 39 | Message authentication |  |
