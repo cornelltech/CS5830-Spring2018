@@ -107,7 +107,7 @@ Preliminary schedule is below. This will surely evolve
 | Mar 15 | Length-preserving encryption | [Slides](slides/blockciphers2.pdf) |
 | Mar 20 |  Class cancelled | |
 | Mar 22 |  Blockcipher modes of operation | [Slides](slides/modes.pdf) |
-| Mar 27 |  Chosen-ciphertext attacks  |   |
+| Mar 27 |  Chosen-ciphertext attacks  | [Slides](slides/modes2.pdf)  |
 | Mar 39 | Message authentication |  |
 | Apr 3 | No lecture (Spring break) |  |
 | Apr 5 | No lecture (Spring break) | |
