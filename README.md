@@ -108,7 +108,7 @@ Preliminary schedule is below. This will surely evolve
 | Mar 20 |  Class cancelled | |
 | Mar 22 |  Blockcipher modes of operation | [Slides](slides/modes.pdf) |
 | Mar 27 |  Chosen-ciphertext attacks  | [Slides](slides/modes2.pdf)  |
-| Mar 39 | Message authentication |  |
+| Mar 39 | Message authentication and authenticated encryption | [Slides](slides/msgauth.pdf)  |
 | Apr 3 | No lecture (Spring break) |  |
 | Apr 5 | No lecture (Spring break) | |
 | Apr 10 | Authenticated encryption  |  |
