@@ -57,13 +57,13 @@ class MyFeistel:
         # TODO - set up round function using AES
         return data
 
-    def _feistel_round_enc(self, data):
+    def _feistel_round_enc(self, round_index, data):
         """This function implements one round of Fiestel encryption block.
         """
         # TODO - Implement this function
         return data
 
-    def _feistel_round_dec(self, data):
+    def _feistel_round_dec(self, round_index, data):
         """This function implements one round of Fiestel decryption block.
         """
         # TODO - Implement this function
