@@ -111,7 +111,7 @@ Preliminary schedule is below. This will surely evolve
 | Mar 39 | Message authentication and authenticated encryption | [Slides](slides/msgauth.pdf)  |
 | Apr 3 | No lecture (Spring break) |  |
 | Apr 5 | No lecture (Spring break) | |
-| Apr 10 | Authenticated encryption  |  |
+| Apr 10 | Hash functions | [Slides](slides/hash.pdf) |
 | Apr 12 | Asymmetric cryptography, public-key encryption  | |
 | Apr 17 | Digital signatures & PKI   |  |
 | Apr 29 | Key exchange |  |
