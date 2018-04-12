@@ -112,12 +112,12 @@ Preliminary schedule is below. This will surely evolve
 | Apr 3 | No lecture (Spring break) |  |
 | Apr 5 | No lecture (Spring break) | |
 | Apr 10 | Hash functions | [Slides](slides/hash.pdf) |
-| Apr 12 | Asymmetric cryptography, public-key encryption  | |
-| Apr 17 | Digital signatures & PKI   |  |
-| Apr 29 | Key exchange |  |
-| Apr 24 | Hybrid encryption & ElGamal | |
-| Apr 26 | RNGs | |
-| May 1 |  Cryptographic backdoors |  |
-| May 3 |  |  |
+| Apr 12 | Password hashing  | [Slides](slides/ae-pwae.pdf)|
+| Apr 17 | Public-key cryptography    |  |
+| Apr 29 |Digital signatures & PKI  |  |
+| Apr 24 | Key exchange  | |
+| Apr 26 | Hybrid encryption & ElGamal | |
+| May 1 |  RNGs |  |
+| May 3 | Cryptographic backdoors |  |
 | May 9 |  |  |
 
