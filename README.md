@@ -116,7 +116,7 @@ Preliminary schedule is below. This will surely evolve
 | Apr 17 | Public-key cryptography    | [Slides](slides/rsa.pdf) |
 | Apr 29 | DH Key exchange | [Slides](slides/dh.pdf) |
 | Apr 24 | Digital signatures & PKI  | [Slides](slides/digsigs.pdf) |
-| Apr 26 | Hybrid encryption & ElGamal | |
+| Apr 26 | Hybrid encryption & ElGamal | [Slides](slides/digsigs2.pdf) |
 | May 1 |  RNGs |  |
 | May 3 | Cryptographic backdoors |  |
 | May 9 |  |  |
