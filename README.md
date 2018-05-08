@@ -117,7 +117,7 @@ Preliminary schedule is below. This will surely evolve
 | Apr 29 | DH Key exchange | [Slides](slides/dh.pdf) |
 | Apr 24 | Digital signatures & PKI  | [Slides](slides/digsigs.pdf) |
 | Apr 26 | Hybrid encryption & ElGamal | [Slides](slides/digsigs2.pdf) |
-| May 1 |  RNGs | [Slides](slides/rng.pdf) |
-| May 3 | Cryptographic backdoors |  |
-| May 9 |  |  |
+| May 1 |  Guest lecture |  |
+| May 3 | RNGs |  [Slides](slides/rng.pdf)|
+| May 8 | Cryptographic backdoors, ABY Project | [Slides](slides/backdoors.pdf) [ABY Report](slides/aby-project.pdf) |
 
