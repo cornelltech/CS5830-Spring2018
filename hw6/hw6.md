@@ -34,7 +34,8 @@ Here is the (high-level) point breakup for the HW6:
 * [Specification doc](https://docs.google.com/document/d/1-LgcC5z0-Tt6ll9lsT5y5Qe0EXqJSzdtRBFgY55WQlg/edit?usp=sharing)  
         Use this doc to discuss about the common specification for the encryption scheme. 
 
-* TBA soon: spreadsheet for ciphertext compatibility checking
+* [Sample Encryptions](https://docs.google.com/spreadsheets/d/1jFkKlA_e_yqi9NX6DV9zh9t2z53K8oNG-aIn4P4jhqc/edit?usp=sharing)  
+    spreadsheet for ciphertext compatibility checking
 
 
 
